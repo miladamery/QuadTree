@@ -42,7 +42,7 @@ public class SuperNodeCenter {
         return sumOfVerticeNumbers;
     }
     
-    
+    public void f1ToString() {}
     
     
 }
