@@ -60,4 +60,5 @@ public class Quad {
     }
     
     public void f2ToString() {}
+    public void toString() {}
 }
