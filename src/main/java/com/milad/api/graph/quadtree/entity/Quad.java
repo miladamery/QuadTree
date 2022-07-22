@@ -59,5 +59,5 @@ public class Quad {
         this.endAxis = endAxis;
     }
     
-    
+    public void f2ToString() {}
 }
